@@ -9,6 +9,7 @@
 	},
 	"dependencies": {
 		"axios": "0.18.0",
+		"babel": "6.23.0",
 		"md5": "2.2.1"
 	},
 	"devDependencies": {
